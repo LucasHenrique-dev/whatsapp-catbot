@@ -54,7 +54,12 @@ Para usar catbot, siga estas etapas:
    2. Execute _ngrok.exe_
    3. Nesse terminal digite `ngrok http porta` (_porta_ é a porta onde o bot está rodando no passo 4; exemplo: porta 5000 então digite 5000)
    4. Será gerado um link https terminado com _.ngork.io_, ele será necessário para o passo final
-1. Finalmente, vá nas configurações do whatsapp sandbox e ponha o link do passo anterior no campo _WHEN A MESSAGE COMES IN_, salve e aproveite o bot!
+1. Finalmente, vá nas configurações do whatsapp sandbox e ponha o link do passo anterior no campo _WHEN A MESSAGE COMES IN_
+2. Adicione _/bot_ ao fim do link
+3. Salve e aproveite o bot!
+
+## 💡 Inspriração
+Projeto inspirado no vídeo da Geek2Code: https://www.youtube.com/watch?v=a4xBBq8aEag
 
 ## 📝 Licença
 
